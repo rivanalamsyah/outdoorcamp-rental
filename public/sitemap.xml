@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Static Pages -->
+  <url>
+    <loc>https://outdoorcamp-rental.vercel.app/</loc>
+    <lastmod>2024-03-20</lastmod>
+    <priority>1.00</priority>
+  </url>
+  <url>
+    <loc>https://outdoorcamp-rental.vercel.app/alat</loc>
+    <lastmod>2024-03-20</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://outdoorcamp-rental.vercel.app/paket</loc>
+    <lastmod>2024-03-20</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://outdoorcamp-rental.vercel.app/tentang</loc>
+    <lastmod>2024-03-20</lastmod>
+    <priority>0.50</priority>
+  </url>
+  <url>
+    <loc>https://outdoorcamp-rental.vercel.app/kontak</loc>
+    <lastmod>2024-03-20</lastmod>
+    <priority>0.50</priority>
+  </url>
+
+  <!-- Product Pages -->
+  <url>
+    <loc>https://outdoorcamp-rental.vercel.app/detail/tenda-doom-4p</loc>
+    <lastmod>2024-03-20</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://outdoorcamp-rental.vercel.app/detail/carrier-60l</loc>
+    <lastmod>2024-03-20</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://outdoorcamp-rental.vercel.app/detail/sleeping-bag-polar</loc>
+    <lastmod>2024-03-20</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://outdoorcamp-rental.vercel.app/detail/kompor-portable</loc>
+    <lastmod>2024-03-20</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://outdoorcamp-rental.vercel.app/detail/matras-foil</loc>
+    <lastmod>2024-03-20</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://outdoorcamp-rental.vercel.app/detail/headlamp-led</loc>
+    <lastmod>2024-03-20</lastmod>
+    <priority>0.70</priority>
+  </url>
+</urlset>

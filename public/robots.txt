@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://outdoorcamp-rental.vercel.app/sitemap.xml
